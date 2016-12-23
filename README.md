@@ -8,5 +8,5 @@ B. 'Sarhoş tekerlek' limits the rotating movement greatly. <br />
 B. a. More slippery one is needed. <br />
 C. The width and weight of the chassis also has an effect on rotating. <br />
 C. a. It should be as small as possible. <br />
-C. b. Maybe motors/wheels should not be outside the chassis. /r \r
+C. b. Maybe motors/wheels should not be outside the chassis. <br />
 C. c. Try to decrease weight. <br />
