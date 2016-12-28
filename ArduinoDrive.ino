@@ -8,11 +8,11 @@ int left_2=8;
 int right_en=9;
 int right_1=10;
 int right_2=11;
-int left_fast=240;
-int left_slow=25;
-int right_fast=240;
-int right_slow=25;
-int normal_speed=140;
+int left_fast=200;
+int left_slow=150;
+int right_fast=200;
+int right_slow=150;
+int normal_speed=175s;
 void setup() {
   // initialize serial:
   Serial.begin(9600);
