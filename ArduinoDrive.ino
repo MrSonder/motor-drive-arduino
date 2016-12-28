@@ -12,7 +12,7 @@ int left_fast=200;
 int left_slow=150;
 int right_fast=200;
 int right_slow=150;
-int normal_speed=175s;
+int normal_speed=175;
 void setup() {
   // initialize serial:
   Serial.begin(9600);
